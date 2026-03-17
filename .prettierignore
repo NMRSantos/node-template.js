@@ -1,3 +1,2 @@
-# Ignore all folders but src
-**
-!src/**
+dist/
+node_modules
